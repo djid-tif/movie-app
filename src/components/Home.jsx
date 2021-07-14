@@ -138,7 +138,7 @@ export default class Home extends React.Component {
 
                                 <ul>
                                     <Link to="/users">
-                                        <li>email</li>
+                                        <li>email 2</li>
                                     </Link>
                                     <li>box</li>
                                 </ul>
